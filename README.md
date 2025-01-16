@@ -1,2 +1,3 @@
 # Nimrameer-demo
-This  is my firsr repository
+This  is my first git repository
+Author-Nimrameer
